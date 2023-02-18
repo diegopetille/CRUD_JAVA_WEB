@@ -1,0 +1,44 @@
+body{
+    margin: 20px;
+    padding: 20px;
+    border: 0;
+    line-height: 2;
+    font-family: 'Montserrat-Regular.otf', monospace, "Arial";
+    background-color: #4e4d4a;
+}
+
+.container{
+    height: 52em;
+    width: 100%;
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+}
+
+form{
+    height: 30em;
+    width: 24em;
+    padding: 2em 0 0 0;
+    text-align: center;
+    background-color: grey;
+    border-radius: 2em;
+    
+}
+
+button{
+    font-size: 0.8em;
+    font-family: 'Montserrat-Regular.otf', monospace, "Arial";
+    font-weight: bold;
+    border-radius: 1em;
+    
+    height: 2.9em;
+    width: 10em;
+    margin: 2em 0 0 0;
+}
+
+input{
+    border-radius: 1em;
+    height: 2.9em;
+    width: 18em;
+}
+

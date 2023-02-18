@@ -1,0 +1,21 @@
+body{
+    margin: 20px;
+    padding: 20px;
+    border: 0;
+    line-height: 2;
+    font-family: 'Montserrat-Regular.otf', monospace, "Arial";
+    background-color: #4e4d4a;
+}
+
+.container{
+    height: 52em;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a{
+    color: white;
+    font-size: 2em;
+}
